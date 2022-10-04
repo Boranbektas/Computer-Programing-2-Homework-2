@@ -1,4 +1,4 @@
-# HOMEWORK-2
+# Computer Programing 2,Homework 2
 
 This is second big project of my second semseter.
 
